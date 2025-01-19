@@ -3,7 +3,6 @@
 <h3 align="center">A passionate web developer and software engineer from Algeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
-- 🔭 I’m currently working on **As an Intern at Prodigy InfoTech**
 
 - 👨‍💻 All of my projects are available at [https://github.com/moncefchelm18](https://github.com/moncefchelm18)
 
