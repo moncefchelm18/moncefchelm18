@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mounsif.chelgham@univ-constantine2.dz**
 
-- 📄 Know about my experiences [CV](https://www.canva.com/design/DAF1mOVaCOE/iwaMMhJjBGnD_s4d4rm4Ew/view?utm_content=DAF1mOVaCOE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
 - ⚡ Fun fact **Video Games Lover**
 
 <h3 align="left">Connect with me:</h3>
